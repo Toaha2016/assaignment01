@@ -15,5 +15,51 @@ nav{
     padding: 20px;
     background-color: white;
     border-radius: 20px;
+}
+
+.bl-btn{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+/* Banner */
+.font-size{
+    font-size: 70px;
+}
+
+.font2{
+    font-size: 20px;
+}
+
+.banner{
+    background-image: url('../assets/Hero-bg.png');
+    padding: 130px 170px;
+    margin: auto;
+    text-align: center;
+}
+
+/* WHY section */
+.why{
+    background-color: rgb(234, 234, 234);
+    padding: 50px;
+    margin: 150px;
+    border-radius: 15px;
+    text-align: center;
     
 }
+
+/* Containers */
+.cont-1{
+    padding: 40px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    
+}
+.r1{
+    text-align: right;
+    justify-content: end;
+}
+
